@@ -1,0 +1,13 @@
+{
+  "detail": {
+    "eventName": "AttachRolePolicy",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "security-admin"
+    },
+    "context": {
+      "on_call": true,
+      "incident_active": true
+    }
+  }
+}
